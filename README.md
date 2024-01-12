@@ -90,9 +90,12 @@
 </a>
 </li><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
 ## <b> Contents</b>
 
  - <b>Machine learning </b>
+ - <b>Computer vision</b>
 	 - [Counting people waiting in a queue](https://github.com/enocmoi/top-view-count/tree/main) :   This project employs real-time object detection through the YOLOv7 model using OpenCV and PyTorch. Specifically, it counts the number of individuals waiting in a shopping queue.
  
