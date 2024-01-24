@@ -8,7 +8,7 @@
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </a>
 
-- 🎓 I'm currently studying Computer Science, specialized in **artificial intelligence** at ISEN engineering school, Brest
+- 🎓 I have recently completed my studies in Computer Science, specializing in **artificial intelligence**, at ISEN engineering school in Brest
 - 📫 How to reach me : **enola.guerard@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
