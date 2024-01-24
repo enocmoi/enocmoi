@@ -96,6 +96,7 @@
 ## <b> Contents</b>
 
  - <b>Machine learning </b>
+ 	- [Housing price in Bangkok](https://github.com/enocmoi/housing_bangkok/blob/main/HousingPriceBangkok.ipynb) :   This project focuses on building and evaluating a predictive model for real estate prices per square meter using a 1D convolutional neural network, incorporating data preprocessing techniques with Pandas, Scikit-Learn, and Keras.
  - <b>Computer vision</b>
 	 - [Counting people waiting in a queue](https://github.com/enocmoi/top-view-count/tree/main) :   This project employs real-time object detection through the YOLOv7 model using OpenCV and PyTorch. Specifically, it counts the number of individuals waiting in a shopping queue.
  
